@@ -1,0 +1,1 @@
+RabbitMq Receiver and Sender based on Sprig Boot tutorial
